@@ -6,7 +6,7 @@ You are the new Chief Data Scientist for your city's school district. In this ca
 
 As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
 
-##Method
+## Method
 Using the starter code provided, I calculated each of the desired values to analyze the dataset. Overall, we were finding ways to compare the average scores in math and reading standardized tests across students in the specific dataset. I first got a baseline by getting the average scores over the total population, and then broke these numbers out into various categories.
 
 At first, I compared the average scoress across the individual schools. The top 5 schools in % overall passing were within a hair's bredth of one another (roughly 90.5% overall passing to 91.3% overall passing). Similarly, the bottom 5 schools were close to one another in their % overall passing population (52.98% at the lowest, and 53.54% at the highest of these bottom 5).
